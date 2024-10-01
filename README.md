@@ -1,2 +1,3 @@
 # Ezdubs-extract
-extract mp3 audio for ezdubs
+
+extract the translated audio from Ezdubs and download
